@@ -5,7 +5,7 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 📊 Passionate Data Analyst with a strong foundation in building interactive dashboards and automating data workflows  
 - 🛠️ Proficient in **SQL**, **Power BI**, **Python**, and **Excel** for end-to-end analytics and reporting  
@@ -14,7 +14,7 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
 
 ---
 
-## 🚀 My Goals
+## My Goals
 
 - 🧩 Master the complete data analytics lifecycle from ingestion to visualization  
 - 🤖 Dive deeper into **machine learning** and integrate it into business reporting  
@@ -23,7 +23,7 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
 
 ---
 
-## 💻 Tools I Use
+##  Tools I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -56,10 +56,6 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12"/>
 </div>
-
----
-
-🎲 Fun fact: I once spent hours debugging SQL only to find the issue was a missing semicolon. Still worth it! 😄
 
 ---
 
