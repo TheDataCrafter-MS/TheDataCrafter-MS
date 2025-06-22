@@ -1,9 +1,8 @@
 # 👋 Hey there! I'm Subash Manikandan
 
 ✨ Welcome to my GitHub profile — where data meets storytelling.  
-I'm a **Data Analyst** from **Chennai, India**, turning raw data into business insights with SQL, Power BI, Python, and Excel.
+I'm **Subash Manikandan**, a Data Analyst turning raw data into business insights using SQL, Power BI, Python, and Excel.
 
----
 
 ## 🧠 About Me
 
