@@ -26,11 +26,32 @@ I'm a **Data Analyst** from **Chennai, India**, turning raw data into business i
 ## 💻 I Code With
 
 <p align="left">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="40" alt="MySQL"/>
+
+  <!-- MSSQL -->
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="MSSQL"/>
+
+  <!-- Snowflake -->
+  <img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40" alt="Snowflake"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>
+
+  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
+
+  <!-- VS Code -->
+  <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
+
+  <!-- Azure -->
+  <img src="https://img.icons8.com/color/48/microsoft-azure.png" width="40" height="40" alt="Azure"/>
 </p>
 
 ---
