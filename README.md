@@ -59,7 +59,7 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
 
 ---
 
-## 🎲 Fun fact: I once spent hours debugging SQL only to find the issue was a missing semicolon. Still worth it! 😄
+🎲 Fun fact: I once spent hours debugging SQL only to find the issue was a missing semicolon. Still worth it! 😄
 
 ---
 
