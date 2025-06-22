@@ -7,12 +7,11 @@ I'm a **Data Analyst** from **Chennai, India**, turning raw data into business i
 
 ## 🧠 About Me
 
-- 🎓 Microsoft Certified: Power BI Data Analyst Associate | Azure Data Fundamentals  
-- 🏢 Working at **Tata Consultancy Services**  
-- 💼 Experience in: BI Dashboards, SQL Reporting, Automation, Production Support  
-- 🌐 Exploring: `Machine Learning`, `Advanced Python`, `Data Modeling`
+- 📊 **Data Analyst** with hands-on experience in turning raw data into impactful business insights  
+- 🛠️ Skilled in **SQL**, **Power BI**, **Python**, and **Excel** for data transformation, analysis, and dashboard creation  
+- 🧠 Strong understanding of **data modeling**, **data visualization**, and **BI reporting workflows**     
+- 📚 Currently expanding knowledge in **machine learning** and **advanced Python for analytics**
 
----
 
 ## 🚀 Goals
 
@@ -21,7 +20,6 @@ I'm a **Data Analyst** from **Chennai, India**, turning raw data into business i
 - Contribute to open-source data projects  
 - Build scalable dashboards that solve real problems
 
----
 
 ## 💻 I Code With
 
