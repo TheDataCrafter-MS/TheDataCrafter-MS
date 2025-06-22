@@ -22,34 +22,22 @@ A **Data Analyst** turning raw data into business insights using SQL, Power BI, 
 
 ## 💻 I Code With
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="40" alt="MySQL"/>
-
-  <!-- MSSQL -->
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="MSSQL"/>
-
-  <!-- Snowflake -->
-  <img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40" alt="Snowflake"/>
-
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>
-
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" width="40" height="40" alt="VS Code"/>
-
-  <!-- Azure -->
-  <img src="https://img.icons8.com/color/48/microsoft-azure.png" width="40" height="40" alt="Azure"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 ---
 
