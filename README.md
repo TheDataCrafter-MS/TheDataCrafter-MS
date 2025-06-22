@@ -39,6 +39,7 @@ Data Analyst passionate about visualizing insights and solving business problems
   <img width="12"/>
 
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
+  
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12"/>
