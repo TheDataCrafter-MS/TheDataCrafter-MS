@@ -59,9 +59,7 @@ Data Analyst focused on extracting actionable insights using **SQL**, **Power BI
 
 ---
 
-## 🎯 Fun Fact
-
-Messy data is just a puzzle waiting to be solved.
+## 🎲 Fun fact: I once spent hours debugging SQL only to find the issue was a missing semicolon. Still worth it! 😄
 
 ---
 
