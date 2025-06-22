@@ -51,6 +51,9 @@ A **Data Analyst** turning raw data into business insights using SQL, Power BI, 
 
 
 
+
+---
+
 ## 🎯 Fun Fact
 
 I treat messy datasets like treasure hunts — there’s always insight buried somewhere!
