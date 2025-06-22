@@ -31,6 +31,14 @@ Data Analyst passionate about visualizing insights and solving business problems
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MSSQL" />
   <img width="12"/>
+  
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
+  <img width="12"/>
+
+  <img src="https://img.icons8.com/color/48/snowflake.png" height="40" alt="Snowflake" />
+  <img width="12"/>
+
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12"/>
@@ -46,14 +54,6 @@ Data Analyst passionate about visualizing insights and solving business problems
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12"/>
-
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
-  <img width="12"/>
-
-  <img src="https://img.icons8.com/color/48/snowflake.png" height="40" alt="Snowflake" />
-  <img width="12"/>
-
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
 </div>
 
 ---
