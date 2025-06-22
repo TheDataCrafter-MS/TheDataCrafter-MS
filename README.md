@@ -1,68 +1,71 @@
-# Hi 👋, I'm Subash Manikandan
+# 👋 Hi, I'm Subash Manikandan
 
-### A passionate Data Analyst from India
-
----
-
-## 💼 Work
-
-🔭 I’m currently working on  
-**Power BI Sales Dashboard**  
-[View Project](https://github.com/subash24/powerbi-sales-dashboard)
-
-👯 I’m looking to collaborate on  
-**Real-Time Analytics Projects**  
-[Open Collaboration](https://github.com/subash24)
-
-🤝 I’m looking for help with  
-**ML Model Deployment**  
-[Learn Together](https://github.com/subash24/ml-deployment)
+✨ Turning data into decisions with the power of analytics.  
+Data Analyst focused on extracting actionable insights using **SQL**, **Power BI**, **Python**, and **Excel** to drive smarter business outcomes.
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 About Me
 
-- Machine Learning with Python  
-- Advanced DAX in Power BI  
-- Snowflake & Data Engineering Basics
-
----
-
-## 💬 Ask Me About
-
-- Power BI  
-- SQL Queries  
-- Python for Data Analysis  
-- Excel Automation
+- 📊 Passionate Data Analyst with a strong foundation in building interactive dashboards and automating data workflows  
+- 🛠️ Proficient in **SQL**, **Power BI**, **Python**, and **Excel** for end-to-end analytics and reporting  
+- 📈 Well-versed in **data modeling**, **visualization techniques**, and **BI development**  
+- 📚 Continuously expanding my skill set in **machine learning**, **DAX**, and **advanced Python for analytics**
 
 ---
 
-## 📫 How to Reach Me
+## 🚀 My Goals
 
-📧 subashmanikandan1999@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/msubash24)
-
----
-
-## 👨‍💻 All My Projects
-
-🗂️ [My GitHub Portfolio](https://github.com/subash24?tab=repositories)
+- 🧩 Master the complete data analytics lifecycle from ingestion to visualization  
+- 🤖 Dive deeper into **machine learning** and integrate it into business reporting  
+- 🌍 Collaborate on impactful **open-source data projects**  
+- 📊 Design real-time, scalable dashboards that solve real-world problems
 
 ---
 
-## 📝 I Write Articles On
+## 💻 Tools I Use
 
-📰 [Medium Blog](https://medium.com/@subashmanikandan1999) *(replace with your actual link)*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MSSQL" />
+  <img width="12"/>
+  
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
+  <img width="12"/>
+
+  <img src="https://img.icons8.com/color/48/snowflake.png" height="40" alt="Snowflake" />
+  <img width="12"/>
+
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="Confluence" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12"/>
+</div>
 
 ---
 
-## 📄 Resume
+## 🎯 Fun Fact
 
-📄 [View Resume](https://example.com/resume.pdf) *(replace with your resume link)*
+Messy data is just a puzzle waiting to be solved.
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Reach Me
 
-I think Excel formulas are just a different form of coding magic ✨
-
+- 📧 subashmanikandan1999@gmail.com  
+- 🔗 [linkedin.com/in/msubash24](https://linkedin.com/in/msubash24)
